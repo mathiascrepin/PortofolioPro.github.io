@@ -1,0 +1,20 @@
+{
+  "name": "js_css_portfolioproject",
+  "version": "1.0.0",
+  "description": "mon Curicullum vitae professionnelle ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D"
+  },
+  "author": "GANDJIDON Mathias",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "popper.js": "^1.16.1"
+  }
+}
